@@ -32,4 +32,3 @@ python -m unittest test_bubble.py -v
 ```
 
 The bubble's first image search is more expensive than tracking an already recognized bear. Detection runs in a worker thread so the overlay window remains responsive while the search completes. ChatGPT downloads and renders the pets itself; network or client-side loading delays are outside this companion's control.
-
