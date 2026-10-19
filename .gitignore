@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+Pets/Quote Bubble/.heartbeat
+Pets/Quote Bubble/.stop
+Pets/Quote Bubble/runtime.log
